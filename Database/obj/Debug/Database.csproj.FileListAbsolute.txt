@@ -1,0 +1,6 @@
+C:\Users\garha\RiderProjects\Database\Database\bin\Debug\Database.exe
+C:\Users\garha\RiderProjects\Database\Database\bin\Debug\Database.pdb
+C:\Users\garha\RiderProjects\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\garha\RiderProjects\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\garha\RiderProjects\Database\Database\obj\Debug\Database.exe
+C:\Users\garha\RiderProjects\Database\Database\obj\Debug\Database.pdb
